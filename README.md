@@ -1,3 +1,3 @@
-- ML: Projeto de Machine Learning que consiste em criar uma máquina preditiva para com uma análise de Turnover dentro de uma determinada empresa
+- ML: Projeto de Machine Learning que consiste em criar uma máquina preditiva para uma análise de Turnover dentro de uma determinada empresa
 - PLN: Projeto de processamento de Linguagens Naturais que consiste em um projeto de IA Generativa que cria uma história com base em personagens, situação e detalhes fornecidos
 - VC: Projeto de visão computacional que consiste em um projeto para utilizar movimentos feitos em frente a uma webcam para controlar o mouse
